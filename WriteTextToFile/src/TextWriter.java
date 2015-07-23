@@ -14,6 +14,7 @@ public class TextWriter {
             new File("TextFiles").mkdir();
             File file = new File("TextFiles/" + fileName);
             System.out.println("asdfasfasf");
+            System.out.println("dddddddd");
             
         	// This will output the full path where the file will be written to...
         	// System.out.println(file.getCanonicalPath());
